@@ -5,18 +5,6 @@ Solution to the [Geektrust "Power of G-Man" challenge](https://www.geektrust.com
 ## Problem
 G-Man starts with a fixed power. Moving from a source to a destination on a grid reduces power based on **distance traveled** and **turns made**. The task is to calculate and print the remaining power.
 
-## Project Structure
-.
-├── geektrust.py # Entry point
-├── src/
-│ ├── constants.py # Config values (base power, costs)
-│ ├── direction.py # Direction enum
-│ ├── extractor.py # Parses input and runs commands
-│ ├── file_reader.py # Reads input file
-│ ├── gman.py # Core logic to calculate power
-│ └── position.py # Position class with distance logic
-└── tests/ # Unit tests (5–6 cases)
-
 
 ## Run Instructions
 1. Install Python 3.  
