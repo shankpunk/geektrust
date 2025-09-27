@@ -1,4 +1,4 @@
-# Just a Ctrl + C, Ctrl + V from geektrust :-)
+Just a Ctrl + C, Ctrl + V from geektrust :-)
 
 # Pre-requisites
 * Python 3.8/3.9
